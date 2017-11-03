@@ -10,4 +10,8 @@ public class Class1 {
 	public void firsttMethod() {
 		
 	}
+	
+	public void secondMethod() {
+		
+	}
 }
